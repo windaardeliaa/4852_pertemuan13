@@ -1,0 +1,15 @@
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852_ClassCollection\bin\Debug\net6.0\4852_ClassCollection.exe
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852_ClassCollection\bin\Debug\net6.0\4852_ClassCollection.deps.json
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852_ClassCollection\bin\Debug\net6.0\4852_ClassCollection.runtimeconfig.json
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852_ClassCollection\bin\Debug\net6.0\4852_ClassCollection.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852_ClassCollection\bin\Debug\net6.0\4852_ClassCollection.pdb
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852_ClassCollection\obj\Debug\net6.0\4852_ClassCollection.csproj.AssemblyReference.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852_ClassCollection\obj\Debug\net6.0\4852_ClassCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852_ClassCollection\obj\Debug\net6.0\4852_ClassCollection.AssemblyInfoInputs.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852_ClassCollection\obj\Debug\net6.0\4852_ClassCollection.AssemblyInfo.cs
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852_ClassCollection\obj\Debug\net6.0\4852_ClassCollection.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852_ClassCollection\obj\Debug\net6.0\4852_ClassCollection.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852_ClassCollection\obj\Debug\net6.0\refint\4852_ClassCollection.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852_ClassCollection\obj\Debug\net6.0\4852_ClassCollection.pdb
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852_ClassCollection\obj\Debug\net6.0\4852_ClassCollection.genruntimeconfig.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\4852_ClassCollection\obj\Debug\net6.0\ref\4852_ClassCollection.dll
